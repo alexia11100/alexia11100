@@ -1,7 +1,7 @@
 ### ✨ Oie, Alexia aqui! ✨
 <div name="base" style="display: inline-block;">
   <img src="https://github-readme-stats.vercel.app/api?username=alexia11100&show_icons=true&theme=dracula">
-  <img src="https://media.tenor.com/CAWpsgfanh4AAAAC/magic-gumball-watterson.gif" width="250" height="190" border="0" />
+  <img src="https://media.tenor.com/CAWpsgfanh4AAAAC/magic-gumball-watterson.gif" width="200" height="190" border="0" />
 </div>
 <br><br>
 
