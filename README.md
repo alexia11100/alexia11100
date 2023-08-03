@@ -15,7 +15,7 @@
 
 <br><br>
 <div name="redes-sociais" style="display: inline-block;">
-  <a href="[https://github.com/alexia11100/Guardador-de-Senha](https://www.linkedin.com/in/alexia-sacerdote-de-oliveira-93a3041a6/)">
+  <a href="[https://github.com/alexia11100/Guardador-de-Senha]([https://www.linkedin.com/in/alexia-sacerdote-de-oliveira-93a3041a6/](https://www.linkedin.com/in/alexia-sacerdote-de-oliveira-93a3041a6/))">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
