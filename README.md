@@ -9,9 +9,6 @@
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexia11100&layout=compact" />
  </a>
-<a href="https://github.com/alexia11100/Guardador-de-Senha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexia11100&repo=Guardador-de-Senha" />
-</a>
 
 <br><br>
 <div name="redes-sociais" style="display: inline-block;">
